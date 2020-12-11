@@ -81,7 +81,7 @@
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">Student Entrepreneur. Product Manager. World Traveler</p>
+            <p class="text-faded mb-5">Student. Entrepreneur. Curious Individual</p>
             <a class="btn btn-primary btn-xl js-scroll-trigger" href="https://www.linkedin.com/in/ryanwallacenc/">Find Out More about me</a>
           </div>
         </div>
@@ -95,9 +95,7 @@
             <h2 class="section-heading">About Me</h2>
             <hr class="light my-4">
             <p>
-            I am a student entrepreneur at UNC Chapel Hill. I am in my final year of study finishing my degree in Political Science with double minors in Entrepreneurship and Information Systems. 
-  
-            Since coming to UNC I've founded two startups, Cardinal Direction Pac and Raise Technologies. I previously have worked as an Investment Analyst with Anthos Capital, a Data Analyst with the Kenan Institute and NC IDEA, and was a prior campaign manager for two North Carolina political races. I am pursuing a career in product management after graduation with the hopes of starting a software company and become a venture capitalist down the road 
+            I am a student entrepreneur at UNC Chapel Hill. I am in my final year of study finishing my degree in Political Science with double minors in Entrepreneurship and Information Systems. Since coming to UNC I've founded two startups, Cardinal Direction Pac and Raise Technologies. I previously have worked as an Investment Analyst with Anthos Capital, a Data Analyst with the Kenan Institute and NC IDEA, and was a prior campaign manager for two North Carolina political races. I am pursuing a career in product management after graduation with the hopes of starting a software company and become a venture capitalist down the road. I am currently working on product strategy with 3x3 Insights and working with Cofounders Capital as an investment intern.
 
           </p>
         <!-- Resume:  **********************************************************************************  -->
@@ -113,79 +111,76 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
-        <h2 class="section-heading">My Fall 2020 Classes</h2>
+        <h2 class="section-heading">Past Projects</h2>
         <hr class="light my-4">
         <p class="text-faded mb-4">
 
         <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist">
-     <!-- inls 161 class tab link:  -->
+     <!-- Anthos Capital class tab link:  -->
         <li class="nav-item">
-          <a class="nav-link active" id="inls161-tab" data-toggle="tab" href="#inls161" role="tab" aria-controls="inls161" aria-selected="true">INLS 161</a>
+          <a class="nav-link active" id="anthoscapital-tab" data-toggle="tab" href="#anthoscapital" role="tab" aria-controls="anthoscapital" aria-selected="true">Anthos Capital</a>
         </li>
-     <!-- INLS 201 tab link:  -->
+     <!-- Raise Technologies tab link:  -->
         <li class="nav-item">
-          <a class="nav-link" id="inls201-tab" data-toggle="tab" href="#inls201" role="tab" aria-controls="inls201" aria-selected="false">INLS 201</a>
+          <a class="nav-link" id="raisetechnologies-tab" data-toggle="tab" href="#raisetechnologies" role="tab" aria-controls="raisetechnologies" aria-selected="false">Raise Technologies</a>
         </li>
-     <!-- BUSI 506 tab link:  -->
+     <!-- 3x3 Insihgts tab link:  -->
         <li class="nav-item">
-          <a class="nav-link" id="busi506-tab" data-toggle="tab" href="#busi506" role="tab" aria-controls="busi506" aria-selected="false">BUSI 506</a>
+          <a class="nav-link" id="3x3insights-tab" data-toggle="tab" href="#3x3insights" role="tab" aria-controls="3x3insights" aria-selected="false">3x3 Insights</a>
         </li>
-     <!-- ECON 393 tab link:  -->
+     <!-- CDPAC tab link:  -->
         <li class="nav-item">
-          <a class="nav-link" id="econ393-tab" data-toggle="tab" href="#econ393" role="tab" aria-controls="econ393" aria-selected="false">ECON 393</a>
+          <a class="nav-link" id="cdpac-tab" data-toggle="tab" href="#cdpac" role="tab" aria-controls="cdpac" aria-selected="false">CDPAC</a>
         </li>
-    <!-- INLS 385 tab link: -->
+    <!-- Writing tab link: -->
          <li class="nav-item">
-             <a class="nav-link" id="inls385-tab" data-toggle="tab" href="#inls385" role="tab" aria-controls="inls385" aria-selected="false">INLS 385</a>
+             <a class="nav-link" id="writing-tab" data-toggle="tab" href="#writing" role="tab" aria-controls="writing" aria-selected="false">writing</a>
          </li>     
       </ul>
 
       <div class="tab-content" id="myTabContent">
 
-        <div class="tab-pane fade show active" id="inls161" role="tabpanel" aria-labelledby="inls161-tab">
+        <div class="tab-pane fade show active" id="anthoscapital" role="tabpanel" aria-labelledby="anthoscaptial-tab">
           <br>
 
-      <!-- inls 161 class text:  -->
+      <!-- Anthos Capital class text:  -->
           <p>
-            INLS161 focuses on concepts and tools necessary for communicating information to users. This is a critical component of information literacy, which involves seeking, evaluating, and utilizing information. The course introduces some basic technology tools as an essential component of information literacy training.
+            Anthos Capital is a growth equity firm focussed on investing in companies on the forefront of change. Anthos makes minority investments in compnaies in the consumer, enterprise software, financial technology, and healthcare space. As a former growth equity analyst I sourced and diligenced companies in the enterprise SaaS and fintech space.
           </p>
           
-          <p><a href="https://ils.unc.edu/courses/2019_spring/inls161_001/01/index.php" target="_blank">My INLS 161 Class Page</a>
+          <p><a href="https://anthoscapital.com/" target="_blank">Anthos Capital (Good luck finding us online)</a>
           
-        <ul>
-         <li><a href="#">Task 03 Documents Project (not linked yet)</a></li>
-         <li><a href="#">Task 04 Data Project (not linked yet)</a></li>
-         <li><a href="#">Task 05 Presentation Project (not linked yet)</a></li>
-         
       </ul>
         </div>
 
     <!-- 2nd class link:  -->
-        <div class="tab-pane fade" id="inls201" role="tabpanel" aria-labelledby="inls201-tab">
+        <div class="tab-pane fade" id="raisetechnologies" role="tabpanel" aria-labelledby="raisetechnologies-tab">
         <br>
-        <p> INLS 201, Foundations of Information Science, is a course which teaches the background and theory behind information and why it is valuable in the world. In this class with Professor Ryan Shaw, we have covered topics including semiotics, categorization, and the basics of information theory. 
-	        
-	            <p><a href="https://aeshin.org/teaching/inls-201/2020/fa/" target="_blank">INLS 201 Class Page</a>
-	        
+        <p> Raise Technologies provided a marketplace for entrepreneurs to identify funding opportunities by delivering connections and insights from sources including social media, private market data, and founder reviews. Using machine learning and data visualization, Raise's platform directly integrates into CRM and investor relations management software. As the Co-Founder & Head of Product, I helped drive the launch of a minimum viable product with 3,000 funding opportunities, developed the product roadmap, and also secured $10,000 in funding. With Raise, my team and I had the privilage of participating in Launch Chapel Hill and the Duke Technology Commercialization Program.   
         </p>
       </div>
 
     <!-- 3rd class link:  -->
-       <div class="tab-pane fade" id="busi506" role="tabpanel" aria-labelledby="busi506-tab">
+       <div class="tab-pane fade" id="3x3insights" role="tabpanel" aria-labelledby="3x3insights-tab">
          <br>
-         <p>BUSI 506, Venture Capital and Entrepreneurial Strategy, is a class that focuses on helping students better understand venture capital and the process of financing startup companies. The class involves both strategic thinking and financial modeling to help teach us how to think like a venture capitalist. </p>
+         <p>I am currently a Product Management Intern at 3x3 Insights where I work on product activation and go to market strategy. 3x3 is redefining the way retailers, brands and grocery stores acquire new customers and drive demand in the beverage alcohol space. We unlock growth by connecting brands to their ideal customers at independent retailers through a data-led personalized journey to commerce, both in-store and offline. 
+         <p><a href=https://www.3x3insights.com/  target="_blank"> 3x3 Insights </a>
+         </p>
        </div>
 
    <!-- 4th class link: -->
-      <div class="tab-pane fade" id="econ393" role="tabpanel" aria-labelledby="econ393-tab">
-        <br>
-      <p> ECON 393, the Entrepreneurship Minor capstone focuses on teaching concepts of leadership, professional development, and networking skills. The class also brings in amazing speakers including startup founders, venture capitalists, and corporate executives who offer advice on career paths and our journey.
+      <div class="tab-pane fade" id="CDPAC" role="tabpanel" aria-labelledby="cdpac-tab">
+      <br>
+      <p>Cardinal Direction PAC, know as CDPAC, was a 527 Political Action Committee dedicated to supporting bi-partisan candidates below the age of 40 running for state and local offices in North Carolina. Managed business development, organizational structure, and fundraising. As Director, I raised $5,000 in total donations
       </p>
       </div>
+      
     <!-- 5th class link: -->
-     <div class="tab-pane fade" id="inls385" role="tabpanel" aria-labelledby="inls385-tab">
+     <div class="tab-pane fade" id="writing" role="tabpanel" aria-labelledby="wiriting-tab">
          <br>
-         <p> INLS 385, Information for Organizational Management, teaches us strategic skills to think about how information is managed and distributed across organizations. In this course, we examine case studies of corporations and government institutions and discuss how they chose to manage information with their various constraints.</p>
+         <p> I blog about tech, startups, VC and student entreprenuership. Check out my Substack and Medium below</p>
+         <p> <a href=https://ryanwallace.substack.com/ target="_blank"> SubStack Blog </a>
+         <p> <a href=https://rwallace-63831.medium.com/ target="_blank"> Medium Blog </a>
      </div>
      </div>
     </div>
