@@ -26,7 +26,7 @@
           gtag('js', new Date());
 
           gtag('config', 'UA-179143467-1');
-</script>
+</script> https://github.com/ryanwallace31/ryanpwallace.github.io.git
 
 	 <style>    
 	ol, ul {
@@ -249,7 +249,6 @@
         
         
     
-
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
