@@ -63,8 +63,6 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
             </li>
-           
-
           </ul>
         </div>
       </div>
@@ -94,19 +92,24 @@
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading">About Me</h2>
             <hr class="light my-4">
+            <img src="img/Headshot_Photo.jpeg" alt="Ryan Wallace Headshot Photo" width="500" Height="600">
             <p>
-            I am a student entrepreneur at UNC Chapel Hill. I am in my final year of study finishing my degree in Political Science with double minors in Entrepreneurship and Information Systems. Since coming to UNC I've founded two startups, Cardinal Direction Pac and Raise Technologies. I previously have worked as an Investment Analyst with Anthos Capital, a Data Analyst with the Kenan Institute and NC IDEA, and was a prior campaign manager for two North Carolina political races. I am pursuing a career in product management after graduation with the hopes of starting a software company and become a venture capitalist down the road. I am currently working on product strategy with 3x3 Insights and working with Cofounders Capital as an investment intern.
+            Hi, I'm Ryan! I am in my final year of study at UNC Chapel Hill studying Political Science, Information Systems, and Entrepreneurship. 
+            
+            I am currently working as a Product Management Intern with 3x3 Insights and as a Venture Fellow with Cofounders Capital. I've started and scaled two of my own ventures, Cardinal Direction Pac and Raise Technologies. I previously worked with Anthos Capital as a Private Equity Analyst, the Kenan Institute as a Researcher, and was a prior digital campaign manager for two North Carolina District Court Races. 
+            
+            I am fortunate to have studied political economy and innovation in Singapore as well as Araic language in Morocco. I am looking to pursue a operations or product-facing role at a software startup after graduating from UNC in May and eventually launch a software veture of my own. 
 
           </p>
         <!-- Resume:  **********************************************************************************  -->
-          <a class="btn btn-light btn-xl" href="file/RyanWallaceResume2020.pdf">View My Resume</a>
+          <a class="btn btn-light btn-xl" href="file/Ryan Wallace Resume 2020_Second Version.pdf">View My Resume</a>
           </div>
         </div>
       </div>
     </section>
 
 
-<!-- CLASSES SECTION: **********************************************************************************  -->
+<!-- Experience SECTION: **********************************************************************************  -->
 <section id="classes">
   <div class="container">
     <div class="row">
@@ -143,7 +146,7 @@
         <div class="tab-pane fade show active" id="anthoscapital" role="tabpanel" aria-labelledby="anthoscaptial-tab">
           <br>
 
-      <!-- Anthos Capital class text:  -->
+      <!-- Anthos Capital text:  -->
           <p>
             Anthos Capital is a growth equity firm focussed on investing in companies on the forefront of change. Anthos makes minority investments in compnaies in the consumer, enterprise software, financial technology, and healthcare space. As a former growth equity analyst I sourced and diligenced companies in the enterprise SaaS and fintech space.
           </p>
@@ -153,14 +156,14 @@
       </ul>
         </div>
 
-    <!-- 2nd class link:  -->
+    <!-- Raise Technologies link:  -->
         <div class="tab-pane fade" id="raisetechnologies" role="tabpanel" aria-labelledby="raisetechnologies-tab">
         <br>
         <p> Raise Technologies provided a marketplace for entrepreneurs to identify funding opportunities by delivering connections and insights from sources including social media, private market data, and founder reviews. Using machine learning and data visualization, Raise's platform directly integrates into CRM and investor relations management software. As the Co-Founder & Head of Product, I helped drive the launch of a minimum viable product with 3,000 funding opportunities, developed the product roadmap, and also secured $10,000 in funding. With Raise, my team and I had the privilage of participating in Launch Chapel Hill and the Duke Technology Commercialization Program.   
         </p>
       </div>
 
-    <!-- 3rd class link:  -->
+    <!-- 3x3 Insights link:  -->
        <div class="tab-pane fade" id="3x3insights" role="tabpanel" aria-labelledby="3x3insights-tab">
          <br>
          <p>I am currently a Product Management Intern at 3x3 Insights where I work on product activation and go to market strategy. 3x3 is redefining the way retailers, brands and grocery stores acquire new customers and drive demand in the beverage alcohol space. We unlock growth by connecting brands to their ideal customers at independent retailers through a data-led personalized journey to commerce, both in-store and offline. 
@@ -168,14 +171,14 @@
          </p>
        </div>
 
-   <!-- 4th class link: -->
+   <!-- Cardinal Direction PAC link: -->
       <div class="tab-pane fade" id="CDPAC" role="tabpanel" aria-labelledby="cdpac-tab">
       <br>
       <p>Cardinal Direction PAC, know as CDPAC, was a 527 Political Action Committee dedicated to supporting bi-partisan candidates below the age of 40 running for state and local offices in North Carolina. Managed business development, organizational structure, and fundraising. As Director, I raised $5,000 in total donations
       </p>
       </div>
       
-    <!-- 5th class link: -->
+    <!-- Personal Blog link: -->
      <div class="tab-pane fade" id="writing" role="tabpanel" aria-labelledby="wiriting-tab">
          <br>
          <p> I blog about tech, startups, VC and student entreprenuership. Check out my Substack and Medium below</p>
@@ -188,105 +191,6 @@
 </div>
 </section>
 
-<!-- Portfolio SECTION: **********************************************************************************  -->
-    <section class="p-0" id="portfolio">
-      <div class="container-fluid p-0">
-        <div class="row no-gutters popup-gallery">
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://invis.io/6BT6374M5JE">
-              <img class="img-fluid" src="img/techstartup.jpg" alt="Tech Startups">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Startups
-                  </div>
-                  <div class="project-name">
-                    Raise Technologies
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://medium.com/@rwallace_63831/want-to-help-student-entrepreneurs-on-college-campuses-give-them-their-summers-back-fc27b8bcb7b6">
-              <img class="img-fluid" src="img/bloggingimage.jpg" alt="Blogging">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Writing
-                  </div>
-                  <div class="project-name">
-                    Personal Medium Blog 
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/DragonsBackPhoto2.jpg">
-              <img class="img-fluid" src="img/HongKongPhoto.jpg" alt="Dragon's Back, Hong Kong">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Travel Photography 
-                  </div>
-                  <div class="project-name">
-                    Photos from Study abroad
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://1drv.ms/p/s!AgvCf8wMXXN7gi_C_siBCblrB5g_">
-              <img class="img-fluid" src="img/Northcarolinaunsplash.jpg" alt="North Carolina Politics">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Political Work 
-                  </div>
-                  <div class="project-name">
-                    Cardinal Direction PAC
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://www.adamsapprenticeship.com/">
-              <img class="img-fluid" src="img/2020AdamsApprenticeship.png" alt="UNC Adams Apprenticeship">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    Adams Apprenticeship
-                  </div>
-                  <div class="project-name">
-                    Entrepreneurship at UNC 
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="https://www.mancareofficial.com/password">
-              <img class="img-fluid" src="img/ecommerce.jpg" alt="Ecommerce Business">
-              <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
-                  <div class="project-category text-faded">
-                    eCommerce Skincare Brand
-                  </div>
-                  <div class="project-name">
-                    Join The Waiting List
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
 <!-- INTERESTS:  **********************************************************************************  -->
 
     <section id="interests">
@@ -296,17 +200,16 @@
             <h2 class="section-heading">My Interests</h2>
             <hr class="my-4">
             <p class="mb-5">
-              Outside of class and work, I love to travel, hike, read, cook, weightlift, and invest. I have had the privilage of living in Morocco and Singapore at different points of my life and also have travelled across Southeast Asia and Europe. I love photography when I travel and also really enjoy taking time to write about product management, technology, startups, and venture capital. I love investing and try to read as many books about the stock market, real estate, and passive income as I can. I have hiked a large portion of the Appalachain Trail and plan on climbing Mt. Kilamanjaro after graduation in May. </p>
+              Outside of class and work, I love to travel, hike, read, cook, weightlift, and invest in stocks, crypto, etc. If there wasn't a global pandemic going on, I would either be backpacking across Europe, climbind Mt. Kilamanjaro, or hanging out in Southeast Asia. I have hiked a large portion of the Appalachain Trail and plan on climbing Mt. Kilamanjaro after graduation in May. </p>
               
               <p class="mb-5"><img class="img-fluid" src="img/DragonsBackHongKong_photo.jpg" alt="Peak of Dragons Back in Hong Kong"><p>
            
-               Given my love of travel, here is a list of my favorite landmarks in some of the countries I have been.</p>
+               Here's some top notch spots I have been to.</p>
               
-               <h2>Ryan's Top 10 "Must See" Places to Visit in Southeast Asia</h2>
+               <h2> Top 10 Places I Have Visited In My Life So Far</h2>
                
 <p class="text-left">
                  <ol>
-                  <li><a href="https://drive.google.com/file/d/1GZ2oqZOnM8oPET0gw2LnbcDjJdsVWIQA/view?usp=sharing" target="_blank">Mt. Batur in Bali, Indonesia</a> (I did this hike at 2am for an amazing sunset)</li>
                    <li>Dragon's Back, Hong Kong</li>
                    <li>Lion's Rock, Hong Kong </li>
                    <li>Phi Phi Islands Overlook, Koh Phi Phi, Thailand</li>
@@ -316,8 +219,18 @@
                    <li>Prague Castle, Prague, Czech Republic</li>
                    <li>Dresden Christmas Market, Dresden, Germany</li>
                    <li>Marakesh Souk, Marakesh, Morocco</li>
-                </ol>     
-                
+                </ol>   
+
+                <h2> Reading is pretty cool too, so here are some top reads of mine for 2020</h2>
+  <p class="text-left">
+                <ol>
+                  <li> Red Notice by Bill Browder (I read this in 48 hours becuase of how much it kept me on my toes)</li>
+                  <li> Range: Why Generalists Triumph In A Specialized World, by David Epstein</li>
+                  <li> 3 Kings: Diddy, Dr. Dre, and Jay Z and Hip-Hops Multi-Billion-Dillar Rise, by Zack O'Malley Greenberg</li>
+                  <li> The Subtle Art of Not Giving a F*ck, by Mark Manson </li>
+                  <li> Bad Blood, John Carreyrou </li>
+                  <li> The New Jim Crow, Michelle Alexander </li>
+                  <li> The Hard Thing About Hard Things, Ben Horowitz </li>             
 <hr>
  <p>
   <script>
@@ -325,9 +238,8 @@
  </script>
 </p>
 
-<p id="demo">Get In Touch With Me</p>
-
-<a class="btn btn-primary" href="https://forms.gle/V3TQcjhS1noxG8ey5">Get On My Calendar</a>
+<p id="demo">Get In Touch With Me</p> 
+<a class="btn btn-primary" href="https://calendly.com/raisetechnologies/30min">Get On My Calendar</a>
 <br>              
             </div>
           </div>
