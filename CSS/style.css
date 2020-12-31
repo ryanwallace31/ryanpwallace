@@ -20,7 +20,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: lightblue;
+  border-color: rgb(10, 10, 10);
 }
 
 hr.light {
@@ -28,7 +28,7 @@ hr.light {
 }
 
 a {
-  color: lightblue;
+  color: rgb(0, 0, 0);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -60,7 +60,7 @@ h3 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(0, 0, 0, 0.7);
 }
 
 section {
@@ -100,7 +100,7 @@ img::-moz-selection {
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #fff;
+  background-color: rgb(3, 3, 3);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
@@ -109,7 +109,7 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-    color: #53b3e0;
+    color: #050505;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -234,7 +234,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #555 !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 .btn {
@@ -250,7 +250,7 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: lightblue;
+  background-color: rgb(0, 0, 0);
   border-color: whitesmoke;
 }
 
@@ -260,6 +260,6 @@ header.masthead p {
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(5, 5, 5, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(8, 8, 8, 0.5) !important;
 }
